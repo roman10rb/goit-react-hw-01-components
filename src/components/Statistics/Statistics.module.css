@@ -1,0 +1,8 @@
+.statistics{
+    text-align: center;
+        border: 1px solid tomato;
+        width: 700px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 100px;
+}
