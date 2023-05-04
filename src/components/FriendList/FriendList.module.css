@@ -1,14 +1,17 @@
 .friendList{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     gap: 40px;
+    border-radius: 5px;
+
 
     text-align: center;
-        border: 1px solid tomato;
         width: 700px;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 100px;
+        margin-bottom: 50px;
+        background-color: cornsilk;
+        padding: 30px;
 }
 

@@ -2,8 +2,10 @@
     background-color: green;
     width: 10px;
     height: 10px;
-    position: absolute;
-
+      position: absolute;
+  border-radius: 50%;
+    bottom: 55px;
+        left: 42%;
 }
 
 .statusOfline {
@@ -11,4 +13,23 @@
     width: 10px;
     height: 10px;
     position: absolute;
+    border-radius: 50%;
+  bottom: 55px;  
+  left: 42%;
+}
+    
+
+.name{
+    margin-bottom: 4px;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 2;
+        color: rgb(192, 51, 51);
+        letter-spacing: .06em;
+}
+.avatar{
+    position: relative;
+}
+.item{
+    position: relative;
 }

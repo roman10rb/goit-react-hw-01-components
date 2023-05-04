@@ -1,8 +1,42 @@
 .transactionHistory{
+        border-collapse: collapse;
+            table-layout: fixed;
+        width: 500px;
+
+        
+}
+.container{
     text-align: center;
-        border: 1px solid tomato;
-        width: 700px;
+        border-radius: 5px;
+        width: 500px;
         margin-left: auto;
         margin-right: auto;
-        margin-bottom: 100px;
+        margin-bottom: 50px;
+
+        background-color: cornsilk;
+    padding: 30px;
 }
+.type{
+    margin-bottom: 4px;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 2;
+        letter-spacing: .06em;
+        color: rgb(192, 51, 51);
+}
+.value{
+    margin-bottom: 4px;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 2;
+        letter-spacing: .06em;
+}
+
+td {
+    
+    border: 1px solid black;
+}
+th{
+    border: 2px solid black;
+}
+
