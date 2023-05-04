@@ -1,0 +1,14 @@
+.statusOnline {
+    background-color: green;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+
+}
+
+.statusOfline {
+    background-color: red;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+}

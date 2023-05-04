@@ -1,9 +1,4 @@
-.friendList{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 40px;
-
+.transactionHistory{
     text-align: center;
         border: 1px solid tomato;
         width: 700px;
@@ -11,4 +6,3 @@
         margin-right: auto;
         margin-bottom: 100px;
 }
-
